@@ -1,0 +1,16 @@
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\bin\Debug\netcoreapp3.1\FileStream and Serialization Practice.exe
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\bin\Debug\netcoreapp3.1\FileStream and Serialization Practice.deps.json
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\bin\Debug\netcoreapp3.1\FileStream and Serialization Practice.runtimeconfig.json
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\bin\Debug\netcoreapp3.1\FileStream and Serialization Practice.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\bin\Debug\netcoreapp3.1\FileStream and Serialization Practice.dll
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\bin\Debug\netcoreapp3.1\FileStream and Serialization Practice.pdb
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\obj\Debug\netcoreapp3.1\FileStream and Serialization Practice.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\obj\Debug\netcoreapp3.1\FileStream and Serialization Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\obj\Debug\netcoreapp3.1\FileStream and Serialization Practice.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\obj\Debug\netcoreapp3.1\FileStream and Serialization Practice.AssemblyInfo.cs
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\obj\Debug\netcoreapp3.1\FileStream and Serialization Practice.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\obj\Debug\netcoreapp3.1\FileStream and Serialization Practice.dll
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\obj\Debug\netcoreapp3.1\FileStream and Serialization Practice.pdb
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\obj\Debug\netcoreapp3.1\FileStream and Serialization Practice.genruntimeconfig.cache
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ali\source\repos\FileStream and Serialization Practice\FileStream and Serialization Practice\obj\Debug\netcoreapp3.1\FileStream and Serialization Practice.csproj.CopyComplete

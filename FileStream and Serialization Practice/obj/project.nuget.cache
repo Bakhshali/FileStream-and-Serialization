@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HYNl+VWzExrC380bpR9vdM71HdHLGoDbMhgzLG/U+ZIlG5LJ0TATKxfhO931KNIQ+Qf1zcVsnvOBQUulqGdyMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ali\\source\\repos\\FileStream and Serialization Practice\\FileStream and Serialization Practice\\FileStream and Serialization Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
